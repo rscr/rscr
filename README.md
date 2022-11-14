@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven Reyes
-- 👀 I have aspiration of being a Front-end developer one day.
+- 👀 Currently looking for a Junior Front-end role.
 - 🌱 I’m currently learning Reactjs and finishing Meta Front-End Developer Professional Certificate.
 - 💞️ I’m looking to collaborate with anybody who is willing to take a chance on a highly motivated aspiring Front-end developer.
 - 📫 How to reach me stevencreyes@gmail.com
