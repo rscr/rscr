@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Steven Reyes
+- 👋 Hi, I’m Steven Reyes and based in Oslo, Norway.
 -    I work as an IT consultant, but i want to pursue a career either in Data Analysis or Web development.
 -    Self taught in HTML5, CSS3, Javascript and Bootstrap. I’m currently learning Reactjs and finishing Meta Front-End Developer Professional Certificate.
 -    Gained and learned skills in Data analysis. Made a project that showcase the skills i`ve learned such as SQL, Excel and Power Bi. Currently taking Data analyst          course Datacamp.com 
